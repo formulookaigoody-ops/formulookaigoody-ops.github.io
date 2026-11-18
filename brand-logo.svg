@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Formulook</title>
+  <rect width="512" height="512" rx="120" fill="#172022" />
+  <path d="M84 256c48-74 110-108 172-108s124 34 172 108c-48 74-110 108-172 108S132 330 84 256Z" fill="none" stroke="#B9F36A" stroke-linecap="round" stroke-linejoin="round" stroke-width="27" />
+  <circle cx="256" cy="256" r="54" fill="#F4F5EF" />
+  <path d="M230 244h52M230 268h52" fill="none" stroke="#172022" stroke-linecap="round" stroke-width="13" />
+</svg>
